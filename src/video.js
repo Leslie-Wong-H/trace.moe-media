@@ -146,7 +146,7 @@ export default async (req, res) => {
   try {
     ///////////////////////////
     // Previous mp4 version: //
-    // (Note: now handing hls//
+    // (Note: now handling hls//
     // files because of the  //
     // param 'hls' key above //
     // and it works.) :)     //
